@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.X1{
+    background-color: aqua;
+    height: 100vh;
+}
+.welcome{
+    /* background-color: aqua; */
+    color: blue;
+    height: 5vh;
+    text-align: center;
+}
+.search{
+    text-align: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.8vh;
+}
+.btn{
+    height: 6vh;
+    width: 5vw;
+    cursor: pointer;
+    margin: 0.8vh;
+    border: 2px solid black;
+    border-radius: 9px;
+}
+.search1{
+    height: 8vh;
+    width: 39vw;
+    border: 2px solid black;
+    border-radius: 9px;
+}
+.search{
+    
+    margin: 3vh;;
+}
